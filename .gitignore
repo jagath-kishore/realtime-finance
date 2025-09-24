@@ -1,0 +1,17 @@
+# Node / React
+frontend/web-app/node_modules/
+frontend/web-app/build/
+frontend/web-app/.env
+frontend/web-app/.env.local
+frontend/web-app/package-lock.json
+
+# Python / backend
+analytics/feature-service/.venv/
+analytics/feature-service/__pycache__/
+analytics/feature-service/*.pyc
+analytics/feature-service/.env
+
+# general
+.DS_Store
+Thumbs.db
+*.log
